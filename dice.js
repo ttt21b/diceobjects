@@ -21,7 +21,7 @@ class Die {
         this.size = size;
         this.sides = 6;
         this.frozen = false;
-        this.place(random(width),random(height));
+        this.place(windowWidth/2,windowHeight/2);
         this.roll();
     }
 
