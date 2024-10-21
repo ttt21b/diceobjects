@@ -43,7 +43,7 @@ function mouseClicked() {
 function keyPressed() {
   shakeDice();
 }
-
+//s
 // for phones...
 function deviceShaken() {
   shakeDice();
